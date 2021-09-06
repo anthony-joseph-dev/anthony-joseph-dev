@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthony-joseph-dev
-- 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Reach me on Github.
 
